@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSkP2Ir0idjSz7NQcyn4XV+gLKCL2aWkdRvib7kNeYrNO9sGN2Vxsq7gywTdixSSbeOenwgpyEX8vy5x055Axg==",
+  "success": true,
+  "projectFilePath": "D:\\documents\\UnitTestingCodeCoverage\\Numbers\\Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kishor AB\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Kishor AB\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Kishor AB\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

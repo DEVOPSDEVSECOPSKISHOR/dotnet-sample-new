@@ -1,0 +1,12 @@
+/root/dotnet/UnitTestingCodeCoverage/Numbers/bin/Debug/net6.0/Numbers.deps.json
+/root/dotnet/UnitTestingCodeCoverage/Numbers/bin/Debug/net6.0/Numbers.dll
+/root/dotnet/UnitTestingCodeCoverage/Numbers/bin/Debug/net6.0/Numbers.pdb
+/root/dotnet/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.csproj.AssemblyReference.cache
+/root/dotnet/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/root/dotnet/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfoInputs.cache
+/root/dotnet/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.AssemblyInfo.cs
+/root/dotnet/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.csproj.CoreCompileInputs.cache
+/root/dotnet/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.dll
+/root/dotnet/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/refint/Numbers.dll
+/root/dotnet/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/Numbers.pdb
+/root/dotnet/UnitTestingCodeCoverage/Numbers/obj/Debug/net6.0/ref/Numbers.dll
